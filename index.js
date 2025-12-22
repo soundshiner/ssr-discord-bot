@@ -1,5 +1,5 @@
 // ========================================
-// index.js - Point d'entrée principal
+// index.js - Point d'entrée principal //
 // ========================================
 
 import "dotenv/config";
