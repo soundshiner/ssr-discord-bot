@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # soundSHINE Bot
 
 Bot discord to play soundSHINE RADIO on your server. 
@@ -11,3 +12,6 @@ Bot discord to play soundSHINE RADIO on your server.
 ## 🤝 Contribution
 
 Contributions are welcome ! See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+=======
+readme.
+>>>>>>> c5db4931891c91bf925e5c146e7253c8d1f3eb4a
